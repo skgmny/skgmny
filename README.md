@@ -1,11 +1,11 @@
-# Hi, I'm Choi Seok In 👋
+# Hi, I'm Choi Seok In
 
 > **Frontend Developer** with a passion for clean UI/UX and seamless web experiences.  
 > Currently studying **Artificial Intelligence Engineering** at Sookmyung Women's University (3rd year).
 
 <br/>
 
-## 🙋‍♂️ About Me
+## About Me
 
 - 🎓 **Education**: 숙명여자대학교 인공지능공학부 재학 (3학년)
 - 🎯 **Goal**: 직관적이고 깔끔한 사용자 경험을 만드는 프론트엔드 개발자
@@ -15,7 +15,7 @@
 
 <br/>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,7 +35,7 @@
 ![DBeaver](https://img.shields.io/badge/dbeaver-%23382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
 <br/>
 
-## 🚀 Key Projects
+## Key Projects
 
 | 프로젝트명 | 설명 | 사용 기술 | 링크 |
 | :--- | :--- | :--- | :---: |
@@ -44,7 +44,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
   
   <br/>
 
