@@ -1,17 +1,52 @@
-## Hi there 👋
+# Hi, I'm Choi Seok In 👋
 
-<!--
-**skgmny/skgmny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Frontend Developer** with a passion for clean UI/UX and seamless web experiences.  
+> Currently studying **Artificial Intelligence Engineering** at Sookmyung Women's University (3rd year).
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-who you are, what are you currently working on,  what tools you use, how to reach you
+## 🙋‍♂️ About Me
+
+- 🎓 **Education**: 숙명여자대학교 인공지능공학부 재학 (3학년)
+- 🎯 **Goal**: 직관적이고 깔끔한 사용자 경험을 만드는 프론트엔드 개발자
+- 💡 **Focus**: 웹 표준 & 반응형 웹, 직관적인 UI/UX Design, 사용자 중심의 프론트 개발
+- ✉️ **Contact**: skgmny2488@gmail.com
+- 🔗 **Links**: [Blog](https://skgmny.github.io/) | [LinkedIn](https://www.linkedin.com/in/seokin-choi-a9362a383/)
+
+<br/>
+
+## 🛠 Tech Stack
+
+### Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### Tools & Environments
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![DBeaver](https://img.shields.io/badge/dbeaver-%23382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
+<br/>
+
+## 🚀 Key Projects
+
+| 프로젝트명 | 설명 | 사용 기술 | 링크 |
+| :--- | :--- | :--- | :---: |
+| **PawBridge (포브릿지)** | 유기견 입양 활성화 및 웹 서비스 | HTML5, CSS3, JavaScript | [GitHub](https://github.com/skgmny) |
+| **Project Name** | 프로젝트 한 줄 설명을 입력해주세요 | Tech Stack | [GitHub](https://github.com/skgmny) |
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=skgmny&show_icons=true&theme=netli&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skgmny&layout=compact&theme=netli&hide_border=true" />
+</div>
