@@ -39,8 +39,8 @@
 
 | 프로젝트명 | 설명 | 사용 기술 | 링크 |
 | :--- | :--- | :--- | :---: |
-| **PawBridge (포브릿지)** | 유기견 입양 활성화 및 웹 서비스 | HTML5, CSS3, JavaScript | [GitHub](https://github.com/skgmny) |
-| **Project Name** | 프로젝트 한 줄 설명을 입력해주세요 | Tech Stack | [GitHub](https://github.com/skgmny) |
+| **9하개** | 유기견 입양 활성화 및 웹 서비스 | HTML5, CSS3, JavaScript | [GitHub](https://github.com/skgmny/Save-Dog-Website) |
+| **Style_ME** | 옷 코디 선택, 저장, 메모 안드로이드 앱 | Kotlin | [GitHub](https://github.com/skgmny/Style_Me) |
 
 <br/>
 
