@@ -47,6 +47,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=skgmny&show_icons=true&theme=netli&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skgmny&layout=compact&theme=netli&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=skgmny&label=Profile%20Views&color=0e75ab&style=flat" alt="Profile Views" />
+  
+  <br/><br/>
+
+  <!-- 깃허브 잔디/활동 커밋 요약 -->
+  <img src="https://ghchart.rshah.org/382923/skgmny" alt="skgmny's Github Contributions" />
 </div>
