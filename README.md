@@ -45,11 +45,8 @@
 <br/>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=skgmny&label=Profile%20Views&color=0e75ab&style=flat" alt="Profile Views" />
   
-  <br/><br/>
+  <br/>
 
   <!-- 깃허브 잔디/활동 커밋 요약 -->
   <img src="https://ghchart.rshah.org/382923/skgmny" alt="skgmny's Github Contributions" />
