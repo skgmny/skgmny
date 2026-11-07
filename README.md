@@ -1,38 +1,62 @@
-# Hi, I'm Choi Seok In
+# Hi, I'm Choi Seok In (최석인)
 
-> **Frontend Developer** with a passion for clean UI/UX and seamless web experiences.  
-> Currently studying **Artificial Intelligence Engineering** at Sookmyung Women's University (3rd year).
+> I’m a third-year Artificial Intelligence Engineering student at Sookmyung Women’s University.
+> I’m interested in frontend development and how thoughtful UI design can make web services easier to use.
 
 <br/>
 
 ## About Me
 
-- 🎓 **Education**: 숙명여자대학교 인공지능공학부 재학 (3학년)
-- 🎯 **Goal**: 직관적이고 깔끔한 사용자 경험을 만드는 프론트엔드 개발자
-- 💡 **Focus**: 웹 표준 & 반응형 웹, 직관적인 UI/UX Design, 사용자 중심의 프론트 개발
-- ✉️ **Contact**: skgmny2488@gmail.com
-- 🔗 **Links**: [Blog](https://skgmny.github.io/) | [LinkedIn](https://www.linkedin.com/in/seokin-choi-a9362a383/)
+- 🎓 **Education** — 숙명여자대학교 인공지능공학부 3학년
+- 🎯 **Interests** — IT 서비스와 웹 서비스에 관심이 있고, 사용자가 서비스를 이용하며 어디서 불편을 느끼는지 살펴보고 화면과 사용 흐름을 개선하는 데 흥미가 있습니다.
+- 💡 **Learning** — 새로운 기술이나 시스템을 배우면 작은 기능부터 직접 적용해 보며 익힙니다.
+- 🔍 **Problem Solving** — 문제가 생기면 어떤 상황에서 발생하는지 확인하고, 원인을 찾아 해결하는 과정을 중요하게 생각합니다.
+- 🤝 **Communication & Collaboration** — 팀원들과 진행 상황과 의견을 공유하고, 피드백을 작업에 반영하며 함께 결과물을 개선합니다.
+- ✉️ **Contact** — [skgmny2488@gmail.com](mailto:skgmny2488@gmail.com)
+- 🔗 **Links** — [Blog] · [LinkedIn](https://www.linkedin.com/in/seokin-choi-a9362a383/)
 
 <br/>
 
 ## Tech Stack
 
-### Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Tools & Environments
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![DBeaver](https://img.shields.io/badge/dbeaver-%23382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
+### Mobile
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black)
+
+### Data Analysis & Visualization
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+### Databases
+![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+
 <br/>
 
 ## Key Projects
