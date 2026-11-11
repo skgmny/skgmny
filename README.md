@@ -13,7 +13,7 @@
 - 🔍 **Problem Solving** — 문제가 생기면 어떤 상황에서 발생하는지 확인하고, 원인을 찾아 해결하는 과정을 중요하게 생각합니다.
 - 🤝 **Communication & Collaboration** — 팀원들과 진행 상황과 의견을 공유하고, 피드백을 작업에 반영하며 함께 결과물을 개선합니다.
 - ✉️ **Contact** — [skgmny2488@gmail.com](mailto:skgmny2488@gmail.com)
-- 🔗 **Links** — [Blog] · [LinkedIn](https://www.linkedin.com/in/seokin-choi-a9362a383/)
+- 🔗 **Links** — [Blog] · [LinkedIn](https://www.linkedin.com/in/seokin-choi-a9362a383/) · [Notion](https://app.notion.com/p/Profile-Choi-Seok-In-415ce372c31b804180e2f5e401d76bd2?source=copy_link)
 
 <br/>
 
@@ -45,7 +45,6 @@
 
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
