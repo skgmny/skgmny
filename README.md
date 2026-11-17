@@ -10,6 +10,7 @@
 - 🎓 **Education** — 숙명여자대학교 인공지능공학부 3학년
 - 🎯 **Interests** —
     - Frontend Development: 사용자가 서비스를 이용할 때 겪는 불편을 관찰하고, 직관적인 화면 레이아웃과 원활한 사용 흐름을 구축하는 UI/UX 개선에 흥미가 있습니다
+    - App Development: 사용자의 일상에 도움이 되는 기능을 앱으로 구현하고, 직관적인 화면과 편리한 사용 경험을 만들어 가는 데 관심이 있습니다.
     - Data Analysis: 서비스 데이터 속에서 의미 있는 인사이트와 지표를 도출하고, 이를 시각화 대시보드로 가공하여 객관적인 개선 근거를 마련하는 분석 작업에 관심이 많습니다
 - 💡 **Learning** — 새로운 기술이나 시스템을 배우면 작은 기능부터 직접 적용해 보며 익힙니다.
 - 🔍 **Problem Solving** — 문제가 생기면 어떤 상황에서 발생하는지 확인하고, 원인을 찾아 해결하는 과정을 중요하게 생각합니다.
@@ -66,6 +67,7 @@
 | :--- | :--- | :--- | :---: |
 | **9하개** | 유기견 입양 활성화 및 웹 서비스 | HTML5, CSS3, JavaScript | [GitHub](https://github.com/skgmny/Save-Dog-Website) |
 | **Style_ME** | 옷 코디 선택, 저장, 메모 안드로이드 앱 | Kotlin | [GitHub](https://github.com/skgmny/Style_Me) |
+| **Volkswagen_G** | 폭스바겐 그룹의 브랜드별 차량 정보와 상세 제원을 탐색하고, 즐겨찾기에 등록하는 안드로이드 앱 | Kotlin | (https://github.com/skgmny/VolkswagenGroupArchive) |
 
 <br/>
 
