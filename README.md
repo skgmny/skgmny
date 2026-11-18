@@ -67,7 +67,7 @@
 | :--- | :--- | :--- | :---: |
 | **9하개** | 유기견 입양 활성화 및 웹 서비스 | HTML5, CSS3, JavaScript | [GitHub](https://github.com/skgmny/Save-Dog-Website) |
 | **Style_ME** | 옷 코디 선택, 저장, 메모 안드로이드 앱 | Kotlin | [GitHub](https://github.com/skgmny/Style_Me) |
-| **Volkswagen_G** | 폭스바겐 그룹의 브랜드별 차량 정보와 상세 제원을 탐색하고, 즐겨찾기에 등록하는 안드로이드 앱 | Kotlin | (https://github.com/skgmny/VolkswagenGroupArchive) |
+| **Volkswagen_G** | 폭스바겐 그룹의 브랜드별 차량 정보와 상세 제원을 탐색하고, 즐겨찾기에 등록하는 안드로이드 앱 | Kotlin | [GitHub](https://github.com/skgmny/VolkswagenGroupArchive) |
 
 <br/>
 
